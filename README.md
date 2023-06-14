@@ -8,7 +8,7 @@ How do you write programs that are maintainable, readable, and adaptable? What w
 
 How do you approach a problem as a computer scientist? How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet client requests?
 
-- As a computer scientist, problem-solving involves analyzing the problem, understanding requirements, designing a solution, implementing it, and testing it. In this project, the approach involved understanding the database and dashboard requirements, designing the user interface, implementing the necessary functionality, and testing the dashboard's performance. 
+- As a computer scientist, I approach problem-solving by analyzing the problem, understanding requirements, designing a solution, implementing it, and testing it. In this project, my approach involved understanding the database and dashboard requirements, designing the user interface, implementing the necessary functionality, and testing the dashboard's performance.
 
 - Compared to previous assignments, this project focused more on real-world application and client requirements. Techniques used included effective communication with the client to understand their needs, designing a user-friendly interface, and delivering a functional solution.
 In the future, to create databases that meet client requests, techniques would include thorough requirement gathering, designing an appropriate data model, implementing robust security measures, optimizing database performance, and providing ongoing support and maintenance.
